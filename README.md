@@ -1,6 +1,6 @@
 # [Ben // Fyxren](https://fyxren.com) 👋
 
-<a href="https://discord.com/users/935165662018551848"><img align="right" src="https://lanyard.cnrad.dev/api/935165662018551848?bg=343F5B&idleMessage=404%20-%20Activity%20Not%20Found" /></a>
+<a href="https://discord.com/users/726320802705834026"><img align="right" src="https://lanyard.cnrad.dev/api/726320802705834026?bg=343F5B&idleMessage=404%20-%20Activity%20Not%20Found" /></a>
 
 _404 • Life not found_
 
